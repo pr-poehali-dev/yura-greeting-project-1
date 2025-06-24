@@ -1,11 +1,4 @@
-
-import { BrowserRouter as Router, Routes, Route } from "react-router-</PieChart>
-              </ResponsiveContainer>
-            </CardContent>
-          </Card>
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import Contacts from "./pages/Contacts";
 import Companies from "./pages/Companies";
